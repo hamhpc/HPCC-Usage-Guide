@@ -1,0 +1,20 @@
+site_name: HPCC
+pages:
+    - Home: index.md
+    - Using:
+        - Getting Started: usage/index.md
+        - SSH access: usage/ssh.md
+        - SCP access: usage/scp.md
+        - VNC access: usage/vnc.md
+        - SMB access: usage/samba.md
+    - Resources: 
+        - Cluster Info: resources/index.md
+        - Running Jobs: resources/queue.md
+    - Software: 
+        - Environment modules: software/env-modules.md
+        - Install/Compile: software/install-compile.md
+        - List of Applications: software/applications.md
+        - Matlab Client Install Instructions: software/matlab-client-install.md
+    - Linux Tutorial: linux-tutorial/index.md
+    - Research: research.md
+    - Get Help: contact.md
